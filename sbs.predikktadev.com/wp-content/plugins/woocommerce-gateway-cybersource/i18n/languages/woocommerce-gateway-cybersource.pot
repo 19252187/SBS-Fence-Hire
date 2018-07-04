@@ -1,0 +1,364 @@
+# Copyright (C) 2018 SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce CyberSource Gateway 1.8.1\n"
+"Report-Msgid-Bugs-To: "
+"https://woocommerce.com/my-account/marketplace-ticket-form/\n"
+"POT-Creation-Date: 2014-06-15 22:41:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/class-wc-gateway-cybersource.php:88
+msgid "CyberSource"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:89
+msgid ""
+"CyberSource Simple Order (SOAP) provides a seamless and secure checkout "
+"process for your customers"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:128
+msgid "TEST MODE ENABLED"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:153
+msgid "Enable / Disable"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:154
+msgid "Enable CyberSource"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:160
+msgid "Title"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:162
+msgid "Payment method title that the customer will see on your website."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:163
+msgid "Credit Card"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:167
+msgid "Description"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:169
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:170
+msgid "Pay securely using your credit card."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:174
+msgid "Transaction Type"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:176
+msgid ""
+"Select how transactions should be processed. Charge submits all "
+"transactions for settlement, Authorization simply authorizes the order "
+"total for capture later."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:179
+msgid "Charge"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:180
+msgid "Authorization"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:185
+msgid "Card Verification (CSC)"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:186
+msgid "Display the Card Security Code (CV2) field on checkout"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:192
+msgid "Accepted Cards"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:196
+msgid "Select which card types to accept."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:202
+msgid "Environment"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:205
+msgid ""
+"The production environment should be used unless you have a separate test "
+"account."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:207
+msgid "Production"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:208
+msgid "Test"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:213
+msgid "Merchant ID"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:215
+msgid ""
+"Your CyberSource merchant id.  This is what you use to log into the "
+"CyberSource Business Center."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:219
+msgid "Test Transaction Security Key"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:222
+msgid ""
+"The transaction security key for your test account.  Find this by logging "
+"into your Test CyberSource Business Center and going to Account Management "
+"&gt; Transaction Security Keys &gt; Security Keys for the SOAP Toolkit API "
+"and clicking 'Generate'."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:226
+msgid "Live Transaction Security Key"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:229
+msgid ""
+"The transaction security key for your live account.  Find this by logging "
+"into your Live CyberSource Business Center and going to Account Management "
+"&gt; Transaction Security Keys &gt; Security Keys for the SOAP Toolkit API "
+"and clicking 'Generate'."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:233
+msgid "Debug Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:235
+msgid ""
+"Show Detailed Error Messages and API requests / responses on the checkout "
+"page and/or save them to the log for debugging purposes."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:238
+msgid "Off"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:239
+msgid "Show on Checkout Page"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:240
+msgid "Save to Log"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:241
+msgid "Both"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:348
+msgid "Credit Card number"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:352
+msgid "Card Type"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:369
+msgid "Expiration date"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:371
+msgid "Month"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:377
+msgid "Year"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:386
+msgid "Card security code"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:567
+msgid "Credit Card Transaction Approved: %s ending in %s (%s)"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:568
+msgid "TEST MODE Credit Card Transaction Approved: %s ending in %s (%s)"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:581
+msgid ""
+"The authorization request was approved by the issuing bank but declined by "
+"CyberSource because it did not pass the CVN check.  You must log into your "
+"CyberSource account and decline or settle the transaction."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:589
+msgid "Transaction requires review: code %s%s"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:600
+msgid ""
+"This order is being placed on hold for review due to an incorrect card "
+"verification number.  You may contact the store to complete the transaction."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:605
+msgid ""
+"This order is being placed on hold for review.  You may contact the store "
+"to complete the transaction."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:612
+msgid "CyberSource Credit Card payment failed"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:618
+msgid ""
+"The provided card is expired, please use an alternate card or other form of "
+"payment."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:619
+msgid ""
+"The provided card was declined, please use an alternate card or other form "
+"of payment."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:620
+msgid ""
+"Insufficient funds in account, please use an alternate card or other form "
+"of payment."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:621
+msgid ""
+"The card is inactivate or not authorized for card-not-present transactions, "
+"please use an alternate card or other form of payment."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:622
+msgid ""
+"The credit limit for the card has been reached, please use an alternate "
+"card or other form of payment."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:623
+msgid "The card verification number is invalid, please try again."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:624
+msgid ""
+"The provided card number was invalid, or card type was incorrect.  Please "
+"try again."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:625
+msgid ""
+"That card type is not accepted, please use an alternate card or other form "
+"of payment."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:626
+msgid ""
+"The card type is invalid or does not correlate with the credit card number. "
+" Please try again or use an alternate card or other form of payment."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:633
+msgid "An error occurred, please try again or try an alternate form of payment"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:635
+msgid ""
+"We cannot process your order with the payment information that you "
+"provided.  Please use a different payment account or an alternate payment "
+"method."
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:654
+msgid "Connection error: \"%s\""
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:679
+msgid "Please select a card type"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:686
+msgid "Card security code is missing"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:691
+msgid "Card security code is invalid (only digits are allowed)"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:696
+msgid "Card security code is invalid (wrong length)"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:711
+msgid "Card expiration date is invalid"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:721
+msgid "Card number is invalid"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:788
+msgid "CyberSource Response:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce CyberSource Gateway"
+msgstr ""
+
+#: woocommerce-gateway-cybersource.php:259
+msgid ""
+"%CyberSource Error%s: WooCommerce is not being forced over SSL; your "
+"customer's credit card data is at risk."
+msgstr ""
+
+#: woocommerce-gateway-cybersource.php:294
+msgid "WooCommerce CyberSource"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woocommerce.com/products/cybersource-payment-gateway/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Accept credit cards in WooCommerce with the CyberSource (SOAP) payment "
+"gateway"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woocommerce.com/"
+msgstr ""
+
+#: classes/class-wc-gateway-cybersource.php:415
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""

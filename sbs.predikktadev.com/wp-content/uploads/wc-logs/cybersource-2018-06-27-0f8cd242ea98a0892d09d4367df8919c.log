@@ -1,0 +1,577 @@
+06-27-2018 @ 04:39:34 - Request:
+stdClass Object
+(
+    [merchantID] => anzsbs
+    [merchantReferenceCode] => 2605
+    [clientLibrary] => PHP
+    [clientLibraryVersion] => 5.6.36
+    [clientEnvironment] => Linux vmres14.auserver.com.au 2.6.32-896.16.1.lve1.4.53.el6.x86_64 #1 SMP Sun Feb 18 08:20:42 EST 2018 x86_64
+    [ccAuthService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [ccCaptureService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [billTo] => stdClass Object
+        (
+            [firstName] => 
+            [lastName] => 
+            [company] => 
+            [street1] => 
+            [street2] => 
+            [city] => 
+            [state] => 
+            [postalCode] => 
+            [country] => 
+            [phoneNumber] => 
+            [email] => pawandeep.sidhu@predikkta.com
+            [customerID] => 1
+            [ipAddress] => 27.33.58.194
+        )
+
+    [card] => stdClass Object
+        (
+            [accountNumber] => 5***********0876
+            [expirationMonth] => 03
+            [expirationYear] => 2021
+            [cvNumber] => 788
+            [cardType] => 002
+        )
+
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+            [grandTotalAmount] => 0.01
+        )
+
+    [item] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [productName] => Invoice
+                    [unitPrice] => 0.01
+                    [quantity] => 1
+                    [id] => 0
+                )
+
+        )
+
+)
+
+06-27-2018 @ 04:39:34 - Connection error: 
+Security Data : UsernameToken authentication failed.
+
+06-27-2018 @ 05:08:39 - Request:
+stdClass Object
+(
+    [merchantID] => anzsbs
+    [merchantReferenceCode] => 2606
+    [clientLibrary] => PHP
+    [clientLibraryVersion] => 5.6.36
+    [clientEnvironment] => Linux vmres14.auserver.com.au 2.6.32-896.16.1.lve1.4.53.el6.x86_64 #1 SMP Sun Feb 18 08:20:42 EST 2018 x86_64
+    [ccAuthService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [ccCaptureService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [billTo] => stdClass Object
+        (
+            [firstName] => 
+            [lastName] => 
+            [company] => 
+            [street1] => 
+            [street2] => 
+            [city] => 
+            [state] => 
+            [postalCode] => 
+            [country] => 
+            [phoneNumber] => 
+            [email] => pawandeep.sidhu@predikkta.com
+            [ipAddress] => 27.33.58.194
+        )
+
+    [card] => stdClass Object
+        (
+            [accountNumber] => 4***********1111
+            [expirationMonth] => 03
+            [expirationYear] => 2021
+            [cvNumber] => 123
+            [cardType] => 001
+        )
+
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+            [grandTotalAmount] => 10.00
+        )
+
+    [item] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [productName] => Invoice
+                    [unitPrice] => 10
+                    [quantity] => 1
+                    [id] => 0
+                )
+
+        )
+
+)
+
+06-27-2018 @ 05:08:40 - Connection error: 
+Security Data : UsernameToken authentication failed.
+
+06-27-2018 @ 05:10:57 - Request:
+stdClass Object
+(
+    [merchantID] => 7869757
+    [merchantReferenceCode] => 2606
+    [clientLibrary] => PHP
+    [clientLibraryVersion] => 5.6.36
+    [clientEnvironment] => Linux vmres14.auserver.com.au 2.6.32-896.16.1.lve1.4.53.el6.x86_64 #1 SMP Sun Feb 18 08:20:42 EST 2018 x86_64
+    [ccAuthService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [ccCaptureService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [billTo] => stdClass Object
+        (
+            [firstName] => 
+            [lastName] => 
+            [company] => 
+            [street1] => 
+            [street2] => 
+            [city] => 
+            [state] => 
+            [postalCode] => 
+            [country] => 
+            [phoneNumber] => 
+            [email] => pawandeep.sidhu@predikkta.com
+            [ipAddress] => 27.33.58.194
+        )
+
+    [card] => stdClass Object
+        (
+            [accountNumber] => 4***********1111
+            [expirationMonth] => 02
+            [expirationYear] => 2020
+            [cvNumber] => 123
+            [cardType] => 001
+        )
+
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+            [grandTotalAmount] => 10.00
+        )
+
+    [item] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [productName] => Invoice
+                    [unitPrice] => 10
+                    [quantity] => 1
+                    [id] => 0
+                )
+
+        )
+
+)
+
+06-27-2018 @ 05:10:57 - Connection error: 
+Security Data : UsernameToken authentication failed.
+
+06-27-2018 @ 05:11:24 - Request:
+stdClass Object
+(
+    [merchantID] => 7869757
+    [merchantReferenceCode] => 2606
+    [clientLibrary] => PHP
+    [clientLibraryVersion] => 5.6.36
+    [clientEnvironment] => Linux vmres14.auserver.com.au 2.6.32-896.16.1.lve1.4.53.el6.x86_64 #1 SMP Sun Feb 18 08:20:42 EST 2018 x86_64
+    [ccAuthService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [ccCaptureService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [billTo] => stdClass Object
+        (
+            [firstName] => 
+            [lastName] => 
+            [company] => 
+            [street1] => 
+            [street2] => 
+            [city] => 
+            [state] => 
+            [postalCode] => 
+            [country] => 
+            [phoneNumber] => 
+            [email] => pawandeep.sidhu@predikkta.com
+            [ipAddress] => 27.33.58.194
+        )
+
+    [card] => stdClass Object
+        (
+            [accountNumber] => 4***********1111
+            [expirationMonth] => 02
+            [expirationYear] => 2020
+            [cvNumber] => 123
+            [cardType] => 001
+        )
+
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+            [grandTotalAmount] => 10.00
+        )
+
+    [item] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [productName] => Invoice
+                    [unitPrice] => 10
+                    [quantity] => 1
+                    [id] => 0
+                )
+
+        )
+
+)
+
+06-27-2018 @ 05:11:24 - Connection error: 
+Security Data : UsernameToken authentication failed.
+
+06-27-2018 @ 05:11:41 - Request:
+stdClass Object
+(
+    [merchantID] => 7869757
+    [merchantReferenceCode] => 2606
+    [clientLibrary] => PHP
+    [clientLibraryVersion] => 5.6.36
+    [clientEnvironment] => Linux vmres14.auserver.com.au 2.6.32-896.16.1.lve1.4.53.el6.x86_64 #1 SMP Sun Feb 18 08:20:42 EST 2018 x86_64
+    [ccAuthService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [ccCaptureService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [billTo] => stdClass Object
+        (
+            [firstName] => 
+            [lastName] => 
+            [company] => 
+            [street1] => 
+            [street2] => 
+            [city] => 
+            [state] => 
+            [postalCode] => 
+            [country] => 
+            [phoneNumber] => 
+            [email] => pawandeep.sidhu@predikkta.com
+            [ipAddress] => 27.33.58.194
+        )
+
+    [card] => stdClass Object
+        (
+            [accountNumber] => 4***********1111
+            [expirationMonth] => 04
+            [expirationYear] => 2022
+            [cvNumber] => 123
+            [cardType] => 002
+        )
+
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+            [grandTotalAmount] => 10.00
+        )
+
+    [item] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [productName] => Invoice
+                    [unitPrice] => 10
+                    [quantity] => 1
+                    [id] => 0
+                )
+
+        )
+
+)
+
+06-27-2018 @ 05:11:42 - Connection error: 
+Security Data : UsernameToken authentication failed.
+
+06-27-2018 @ 05:12:22 - Request:
+stdClass Object
+(
+    [merchantID] => 7869757
+    [merchantReferenceCode] => 2606
+    [clientLibrary] => PHP
+    [clientLibraryVersion] => 5.6.36
+    [clientEnvironment] => Linux vmres14.auserver.com.au 2.6.32-896.16.1.lve1.4.53.el6.x86_64 #1 SMP Sun Feb 18 08:20:42 EST 2018 x86_64
+    [ccAuthService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [ccCaptureService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [billTo] => stdClass Object
+        (
+            [firstName] => 
+            [lastName] => 
+            [company] => 
+            [street1] => 
+            [street2] => 
+            [city] => 
+            [state] => 
+            [postalCode] => 
+            [country] => 
+            [phoneNumber] => 
+            [email] => pawandeep.sidhu@predikkta.com
+            [ipAddress] => 27.33.58.194
+        )
+
+    [card] => stdClass Object
+        (
+            [accountNumber] => 4***********1111
+            [expirationMonth] => 02
+            [expirationYear] => 2019
+            [cvNumber] => 123
+            [cardType] => 001
+        )
+
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+            [grandTotalAmount] => 10.00
+        )
+
+    [item] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [productName] => Invoice
+                    [unitPrice] => 10
+                    [quantity] => 1
+                    [id] => 0
+                )
+
+        )
+
+)
+
+06-27-2018 @ 05:12:23 - Connection error: 
+Security Data : UsernameToken authentication failed.
+
+06-27-2018 @ 05:13:24 - Request:
+stdClass Object
+(
+    [merchantID] => anzsbs
+    [merchantReferenceCode] => 2606
+    [clientLibrary] => PHP
+    [clientLibraryVersion] => 5.6.36
+    [clientEnvironment] => Linux vmres14.auserver.com.au 2.6.32-896.16.1.lve1.4.53.el6.x86_64 #1 SMP Sun Feb 18 08:20:42 EST 2018 x86_64
+    [ccAuthService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [ccCaptureService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [billTo] => stdClass Object
+        (
+            [firstName] => 
+            [lastName] => 
+            [company] => 
+            [street1] => 
+            [street2] => 
+            [city] => 
+            [state] => 
+            [postalCode] => 
+            [country] => 
+            [phoneNumber] => 
+            [email] => pawandeep.sidhu@predikkta.com
+            [ipAddress] => 27.33.58.194
+        )
+
+    [card] => stdClass Object
+        (
+            [accountNumber] => 4***********1111
+            [expirationMonth] => 03
+            [expirationYear] => 2019
+            [cvNumber] => 123
+            [cardType] => 001
+        )
+
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+            [grandTotalAmount] => 10.00
+        )
+
+    [item] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [productName] => Invoice
+                    [unitPrice] => 10
+                    [quantity] => 1
+                    [id] => 0
+                )
+
+        )
+
+)
+
+06-27-2018 @ 05:13:25 - Response:
+stdClass Object
+(
+    [merchantReferenceCode] => 2606
+    [requestID] => 5300764049656847903023
+    [decision] => REJECT
+    [reasonCode] => 233
+    [requestToken] => Ahj77wSTH1rg8oLlfakvZVETzzJH5gKiJ55kj8wkFfQ/4ozaSZejFcOJAAnJj61weUFyvtSXgAAAxBCX
+    [ccAuthReply] => stdClass Object
+        (
+            [reasonCode] => 233
+            [avsCode] => 1
+            [cvCode] => 3
+            [processorResponse] => 15
+        )
+
+)
+
+06-27-2018 @ 05:14:35 - Request:
+stdClass Object
+(
+    [merchantID] => anzsbs
+    [merchantReferenceCode] => 2606
+    [clientLibrary] => PHP
+    [clientLibraryVersion] => 5.6.36
+    [clientEnvironment] => Linux vmres14.auserver.com.au 2.6.32-896.16.1.lve1.4.53.el6.x86_64 #1 SMP Sun Feb 18 08:20:42 EST 2018 x86_64
+    [ccAuthService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [ccCaptureService] => stdClass Object
+        (
+            [run] => true
+        )
+
+    [billTo] => stdClass Object
+        (
+            [firstName] => 
+            [lastName] => 
+            [company] => 
+            [street1] => 
+            [street2] => 
+            [city] => 
+            [state] => 
+            [postalCode] => 
+            [country] => 
+            [phoneNumber] => 
+            [email] => pawandeep.sidhu@predikkta.com
+            [ipAddress] => 27.33.58.194
+        )
+
+    [card] => stdClass Object
+        (
+            [accountNumber] => 5***********0876
+            [expirationMonth] => 03
+            [expirationYear] => 2021
+            [cvNumber] => 788
+            [cardType] => 002
+        )
+
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+            [grandTotalAmount] => 10.00
+        )
+
+    [item] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [productName] => Invoice
+                    [unitPrice] => 10
+                    [quantity] => 1
+                    [id] => 0
+                )
+
+        )
+
+)
+
+06-27-2018 @ 05:14:36 - Response:
+stdClass Object
+(
+    [merchantReferenceCode] => 2606
+    [requestID] => 5300764758366859803023
+    [decision] => ACCEPT
+    [reasonCode] => 100
+    [requestToken] => Ahj//wSTH1rjdxRN/7mPZSzVmwYN2zRu1cM2zZw1cuGDNgyZqJYDCSjsAlEsBhJR2BIK+h/xhk0ky9GK4cSAMIkmPrXG7iib/3MeAAAARw7i
+    [purchaseTotals] => stdClass Object
+        (
+            [currency] => AUD
+        )
+
+    [ccAuthReply] => stdClass Object
+        (
+            [reasonCode] => 100
+            [amount] => 10.00
+            [authorizationCode] => 486614
+            [avsCode] => 1
+            [cvCode] => M
+            [cvCodeRaw] => M
+            [authorizedDateTime] => 2018-06-27T05:14:36Z
+            [processorResponse] => 00
+            [reconciliationID] => 5300764758366859803023
+        )
+
+    [ccCaptureReply] => stdClass Object
+        (
+            [reasonCode] => 100
+            [requestDateTime] => 2018-06-27T05:14:36Z
+            [amount] => 10.00
+            [reconciliationID] => 5300764758366859803023
+        )
+
+)
+
